@@ -1,0 +1,4 @@
+File,Dataset,nqubits,terms,one_norm
+ES_H50_linear_R1.0_sto-6g.hdf5,/ham_BK-100,100,4611805,1928.3004784305792
+ES_H50_linear_R1.0_sto-6g.hdf5,/ham_JW-100,100,4611805,1928.3004784306745
+ES_H50_linear_R1.0_sto-6g.hdf5,/ham_parity-100,100,4611805,1928.3004784306847

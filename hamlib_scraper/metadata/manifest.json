@@ -1,0 +1,209 @@
+{
+  "root_url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/",
+  "directories": [
+    ".",
+    "electronic",
+    "vibrational",
+    "electronic/bond_breaking",
+    "electronic/hydrogen_data",
+    "electronic/standard",
+    "electronic/transition_metals",
+    "electronic/hydrogen_data/H2_linear",
+    "electronic/hydrogen_data/H4_linear",
+    "electronic/hydrogen_data/H6_linear",
+    "electronic/hydrogen_data/H8_linear",
+    "electronic/hydrogen_data/H10_linear",
+    "electronic/hydrogen_data/H10_pyramid",
+    "electronic/hydrogen_data/H10_ring",
+    "electronic/hydrogen_data/H10_sheet",
+    "electronic/hydrogen_data/H12_linear",
+    "electronic/hydrogen_data/H12_pyramid",
+    "electronic/hydrogen_data/H12_ring",
+    "electronic/hydrogen_data/H12_sheet",
+    "electronic/hydrogen_data/H14_linear",
+    "electronic/hydrogen_data/H14_pyramid",
+    "electronic/hydrogen_data/H14_ring",
+    "electronic/hydrogen_data/H14_sheet",
+    "electronic/hydrogen_data/H16_linear",
+    "electronic/hydrogen_data/H16_pyramid",
+    "electronic/hydrogen_data/H16_ring",
+    "electronic/hydrogen_data/H16_sheet",
+    "electronic/hydrogen_data/H18_linear",
+    "electronic/hydrogen_data/H20_linear",
+    "electronic/hydrogen_data/H24_linear",
+    "electronic/hydrogen_data/H28_linear",
+    "electronic/hydrogen_data/H32_linear",
+    "electronic/hydrogen_data/H36_linear",
+    "electronic/hydrogen_data/H40_linear",
+    "electronic/hydrogen_data/H50_linear",
+    "electronic/hydrogen_data/H60_linear"
+  ],
+  "files": [
+    {
+      "path": "electronic/bond_breaking/chemistry_electronic_bond_breaking.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/bond_breaking/chemistry_electronic_bond_breaking.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H10_linear/chemistry_electronic_hydrogen_data_H10_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H10_linear/chemistry_electronic_hydrogen_data_H10_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H10_pyramid/chemistry_electronic_hydrogen_data_H10_pyramid.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H10_pyramid/chemistry_electronic_hydrogen_data_H10_pyramid.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H10_ring/chemistry_electronic_hydrogen_data_H10_ring.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H10_ring/chemistry_electronic_hydrogen_data_H10_ring.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H10_sheet/chemistry_electronic_hydrogen_data_H10_sheet.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H10_sheet/chemistry_electronic_hydrogen_data_H10_sheet.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H12_linear/chemistry_electronic_hydrogen_data_H12_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H12_linear/chemistry_electronic_hydrogen_data_H12_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H12_pyramid/chemistry_electronic_hydrogen_data_H12_pyramid.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H12_pyramid/chemistry_electronic_hydrogen_data_H12_pyramid.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H12_ring/chemistry_electronic_hydrogen_data_H12_ring.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H12_ring/chemistry_electronic_hydrogen_data_H12_ring.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H12_sheet/chemistry_electronic_hydrogen_data_H12_sheet.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H12_sheet/chemistry_electronic_hydrogen_data_H12_sheet.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H14_linear/chemistry_electronic_hydrogen_data_H14_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H14_linear/chemistry_electronic_hydrogen_data_H14_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H14_pyramid/chemistry_electronic_hydrogen_data_H14_pyramid.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H14_pyramid/chemistry_electronic_hydrogen_data_H14_pyramid.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H14_ring/chemistry_electronic_hydrogen_data_H14_ring.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H14_ring/chemistry_electronic_hydrogen_data_H14_ring.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H14_sheet/chemistry_electronic_hydrogen_data_H14_sheet.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H14_sheet/chemistry_electronic_hydrogen_data_H14_sheet.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H16_linear/chemistry_electronic_hydrogen_data_H16_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H16_linear/chemistry_electronic_hydrogen_data_H16_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H16_pyramid/chemistry_electronic_hydrogen_data_H16_pyramid.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H16_pyramid/chemistry_electronic_hydrogen_data_H16_pyramid.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H16_ring/chemistry_electronic_hydrogen_data_H16_ring.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H16_ring/chemistry_electronic_hydrogen_data_H16_ring.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H16_sheet/chemistry_electronic_hydrogen_data_H16_sheet.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H16_sheet/chemistry_electronic_hydrogen_data_H16_sheet.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H18_linear/chemistry_electronic_hydrogen_data_H18_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H18_linear/chemistry_electronic_hydrogen_data_H18_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H20_linear/chemistry_electronic_hydrogen_data_H20_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H20_linear/chemistry_electronic_hydrogen_data_H20_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H24_linear/chemistry_electronic_hydrogen_data_H24_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H24_linear/chemistry_electronic_hydrogen_data_H24_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H28_linear/chemistry_electronic_hydrogen_data_H28_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H28_linear/chemistry_electronic_hydrogen_data_H28_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H2_linear/chemistry_electronic_hydrogen_data_H2_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H2_linear/chemistry_electronic_hydrogen_data_H2_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H32_linear/chemistry_electronic_hydrogen_data_H32_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H32_linear/chemistry_electronic_hydrogen_data_H32_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H36_linear/chemistry_electronic_hydrogen_data_H36_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H36_linear/chemistry_electronic_hydrogen_data_H36_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H40_linear/chemistry_electronic_hydrogen_data_H40_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H40_linear/chemistry_electronic_hydrogen_data_H40_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H4_linear/chemistry_electronic_hydrogen_data_H4_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H4_linear/chemistry_electronic_hydrogen_data_H4_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H50_linear/chemistry_electronic_hydrogen_data_H50_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H50_linear/chemistry_electronic_hydrogen_data_H50_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H60_linear/chemistry_electronic_hydrogen_data_H60_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H60_linear/chemistry_electronic_hydrogen_data_H60_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H6_linear/chemistry_electronic_hydrogen_data_H6_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H6_linear/chemistry_electronic_hydrogen_data_H6_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/hydrogen_data/H8_linear/chemistry_electronic_hydrogen_data_H8_linear.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/hydrogen_data/H8_linear/chemistry_electronic_hydrogen_data_H8_linear.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/standard/chemistry_electronic_standard.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/standard/chemistry_electronic_standard.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "electronic/transition_metals/chemistry_electronic_transition_metals.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/electronic/transition_metals/chemistry_electronic_transition_metals.csv",
+      "status": "downloaded"
+    },
+    {
+      "path": "vibrational/chemistry_vibrational.csv",
+      "url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/vibrational/chemistry_vibrational.csv",
+      "status": "downloaded"
+    }
+  ],
+  "errors": []
+}

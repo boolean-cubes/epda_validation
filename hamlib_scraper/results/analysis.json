@@ -1,0 +1,2151 @@
+{
+  "source_url": "https://portal.nersc.gov/cfs/m888/dcamps/hamlib/chemistry/",
+  "scrape_errors": [],
+  "min_comparison_sizes": 6,
+  "min_improvement": 0.1,
+  "families": [
+    {
+      "family": "electronic/bond_breaking",
+      "metadata_files": [
+        "chemistry_electronic_bond_breaking.csv"
+      ],
+      "hamiltonians": 297,
+      "metadata_rows": 297,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 52,
+      "qubits_max": 52,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 52,
+          "count": 297,
+          "positive_count": 297,
+          "q1": 145223.0,
+          "median": 145327.0,
+          "q3": 160813.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H10_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H10_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 20,
+      "qubits_max": 20,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 20,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 7151.0,
+          "median": 7151.0,
+          "q3": 7151.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H10_pyramid",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H10_pyramid.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 20,
+      "qubits_max": 20,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 20,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 5159.0,
+          "median": 5159.0,
+          "q3": 5159.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H10_ring",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H10_ring.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 20,
+      "qubits_max": 20,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 20,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 5023.0,
+          "median": 5023.0,
+          "q3": 5023.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H10_sheet",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H10_sheet.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 20,
+      "qubits_max": 20,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 20,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 3663.0,
+          "median": 3663.0,
+          "q3": 3663.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H12_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H12_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 24,
+      "qubits_max": 24,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 24,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 14905.0,
+          "median": 14905.0,
+          "q3": 14905.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H12_pyramid",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H12_pyramid.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 24,
+      "qubits_max": 24,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 24,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 12453.0,
+          "median": 12453.0,
+          "q3": 12453.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H12_ring",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H12_ring.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 24,
+      "qubits_max": 24,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 24,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 12489.0,
+          "median": 12501.0,
+          "q3": 12529.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H12_sheet",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H12_sheet.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 24,
+      "qubits_max": 24,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 24,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 7481.0,
+          "median": 7481.0,
+          "q3": 7481.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H14_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H14_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 28,
+      "qubits_max": 28,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 28,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 27735.0,
+          "median": 27735.0,
+          "q3": 27735.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H14_pyramid",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H14_pyramid.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 28,
+      "qubits_max": 28,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 28,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 11007.0,
+          "median": 11007.0,
+          "q3": 11007.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H14_ring",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H14_ring.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 28,
+      "qubits_max": 28,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 28,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 17583.0,
+          "median": 17583.0,
+          "q3": 17583.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H14_sheet",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H14_sheet.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 28,
+      "qubits_max": 28,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 28,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 13959.0,
+          "median": 13959.0,
+          "q3": 13959.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H16_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H16_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 32,
+      "qubits_max": 32,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 32,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 47489.0,
+          "median": 47489.0,
+          "q3": 47489.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H16_pyramid",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H16_pyramid.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 32,
+      "qubits_max": 32,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 32,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 40633.0,
+          "median": 40633.0,
+          "q3": 42533.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H16_ring",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H16_ring.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 32,
+      "qubits_max": 32,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 32,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 37437.0,
+          "median": 37473.0,
+          "q3": 37489.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H16_sheet",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H16_sheet.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 32,
+      "qubits_max": 32,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 32,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 23889.0,
+          "median": 23889.0,
+          "q3": 23889.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H18_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H18_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 36,
+      "qubits_max": 36,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 36,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 76294.0,
+          "median": 76299.0,
+          "q3": 76299.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H20_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H20_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 40,
+      "qubits_max": 40,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 40,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 116575.0,
+          "median": 116577.0,
+          "q3": 116586.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H24_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H24_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 48,
+      "qubits_max": 48,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 48,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 242686.0,
+          "median": 242693.0,
+          "q3": 242703.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H28_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H28_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 56,
+      "qubits_max": 56,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 56,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 450828.5,
+          "median": 450855.0,
+          "q3": 450914.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H2_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H2_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 4,
+      "qubits_max": 4,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 4,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 15.0,
+          "median": 15.0,
+          "q3": 15.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H32_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H32_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 64,
+      "qubits_max": 64,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 64,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 770604.0,
+          "median": 770754.0,
+          "q3": 770811.5
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H36_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H36_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 72,
+      "qubits_max": 72,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 72,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 1236018.5,
+          "median": 1236220.0,
+          "q3": 1236445.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H40_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H40_linear.csv"
+      ],
+      "hamiltonians": 3,
+      "metadata_rows": 3,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 80,
+      "qubits_max": 80,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 80,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 1886521.0,
+          "median": 1886521.0,
+          "q3": 1886521.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H4_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H4_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 8,
+      "qubits_max": 8,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 8,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 185.0,
+          "median": 185.0,
+          "q3": 185.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H50_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H50_linear.csv"
+      ],
+      "hamiltonians": 3,
+      "metadata_rows": 3,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 100,
+      "qubits_max": 100,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 100,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 4611805.0,
+          "median": 4611805.0,
+          "q3": 4611805.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H60_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H60_linear.csv"
+      ],
+      "hamiltonians": 3,
+      "metadata_rows": 3,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 120,
+      "qubits_max": 120,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 120,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 9560419.0,
+          "median": 9560419.0,
+          "q3": 9560419.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H6_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H6_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 12,
+      "qubits_max": 12,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 12,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 919.0,
+          "median": 919.0,
+          "q3": 919.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/hydrogen_data/H8_linear",
+      "metadata_files": [
+        "chemistry_electronic_hydrogen_data_H8_linear.csv"
+      ],
+      "hamiltonians": 48,
+      "metadata_rows": 48,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 1,
+      "fit_qubit_sizes": 1,
+      "qubits_min": 16,
+      "qubits_max": 16,
+      "status": "one_fitted_size",
+      "selected": null,
+      "fits": [],
+      "superpolynomial_comparison": null,
+      "points": [
+        {
+          "qubits": 16,
+          "count": 48,
+          "positive_count": 48,
+          "q1": 2913.0,
+          "median": 2913.0,
+          "q3": 2913.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/standard",
+      "metadata_files": [
+        "chemistry_electronic_standard.csv"
+      ],
+      "hamiltonians": 270,
+      "metadata_rows": 270,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 18,
+      "fit_qubit_sizes": 18,
+      "qubits_min": 4,
+      "qubits_max": 78,
+      "status": "no_superpolynomial_signal",
+      "selected": {
+        "model": "power law with finite-size correction",
+        "superpolynomial": false,
+        "parameters": 3,
+        "equation": "T(n) = 3911.29 x^(4.47759) exp(0.513771 (1/x - 1)), x = n / 20.6619",
+        "reference_qubits": 20.661894642162427,
+        "log_coefficients": [
+          8.271622347334008,
+          4.477587136113796,
+          0.5137707497446109
+        ],
+        "log_r2": 0.9948349463754288,
+        "log_rmse": 0.22254925383650198,
+        "cv_log_rmse": 0.2606830866260073,
+        "largest_holdout_log_error": 0.23483682891498425
+      },
+      "fits": [
+        {
+          "model": "constant",
+          "superpolynomial": false,
+          "parameters": 1,
+          "equation": "T(n) = 4787.89",
+          "reference_qubits": 20.661894642162427,
+          "log_coefficients": [
+            8.473844406432049
+          ],
+          "log_r2": -2.220446049250313e-16,
+          "log_rmse": 3.0966257804361312,
+          "cv_log_rmse": 3.278780238108844,
+          "largest_holdout_log_error": 5.509729284953401
+        },
+        {
+          "model": "power law",
+          "superpolynomial": false,
+          "parameters": 2,
+          "equation": "T(n) = 4787.89 x^(3.77576), x = n / 20.6619",
+          "reference_qubits": 20.661894642162427,
+          "log_coefficients": [
+            8.473844406432049,
+            3.775758032240777
+          ],
+          "log_r2": 0.987340056852795,
+          "log_rmse": 0.3484212245687444,
+          "cv_log_rmse": 0.4186152578774588,
+          "largest_holdout_log_error": 0.2357493123069485
+        },
+        {
+          "model": "power law with finite-size correction",
+          "superpolynomial": false,
+          "parameters": 3,
+          "equation": "T(n) = 3911.29 x^(4.47759) exp(0.513771 (1/x - 1)), x = n / 20.6619",
+          "reference_qubits": 20.661894642162427,
+          "log_coefficients": [
+            8.271622347334008,
+            4.477587136113796,
+            0.5137707497446109
+          ],
+          "log_r2": 0.9948349463754288,
+          "log_rmse": 0.22254925383650198,
+          "cv_log_rmse": 0.2606830866260073,
+          "largest_holdout_log_error": 0.23483682891498425
+        },
+        {
+          "model": "exponential",
+          "superpolynomial": true,
+          "parameters": 2,
+          "equation": "T(n) = 1753.88 exp(2.78552 (x - 1)), x = n / 20.6619",
+          "reference_qubits": 20.661894642162427,
+          "log_coefficients": [
+            7.469584870716693,
+            2.7855150681728102
+          ],
+          "log_r2": 0.8950109628803397,
+          "log_rmse": 1.003369051977796,
+          "cv_log_rmse": 1.1801024084756773,
+          "largest_holdout_log_error": 2.335842762034522
+        },
+        {
+          "model": "stretched exponential",
+          "superpolynomial": true,
+          "parameters": 2,
+          "equation": "T(n) = 2638.96 exp(7.09484 (sqrt(x) - 1)), x = n / 20.6619",
+          "reference_qubits": 20.661894642162427,
+          "log_coefficients": [
+            7.878141348883811,
+            7.094840422216434
+          ],
+          "log_r2": 0.9740416187536712,
+          "log_rmse": 0.4989161109846212,
+          "cv_log_rmse": 0.592507818976978,
+          "largest_holdout_log_error": 1.2311429064721384
+        },
+        {
+          "model": "quasipolynomial",
+          "superpolynomial": true,
+          "parameters": 3,
+          "equation": "T(n) = 3830.52 exp(3.81529 ln(x) +0.335926 ln(x)^2), x = n / 20.6619",
+          "reference_qubits": 20.661894642162427,
+          "log_coefficients": [
+            8.250754600616945,
+            3.815287063629551,
+            0.3359261620995664
+          ],
+          "log_r2": 0.9939659813953626,
+          "log_rmse": 0.2405426258432242,
+          "cv_log_rmse": 0.2974858547586233,
+          "largest_holdout_log_error": 0.365681141408297
+        }
+      ],
+      "superpolynomial_comparison": {
+        "model": "quasipolynomial",
+        "superpolynomial": true,
+        "parameters": 3,
+        "equation": "T(n) = 3830.52 exp(3.81529 ln(x) +0.335926 ln(x)^2), x = n / 20.6619",
+        "reference_qubits": 20.661894642162427,
+        "log_coefficients": [
+          8.250754600616945,
+          3.815287063629551,
+          0.3359261620995664
+        ],
+        "log_r2": 0.9939659813953626,
+        "log_rmse": 0.2405426258432242,
+        "cv_log_rmse": 0.2974858547586233,
+        "largest_holdout_log_error": 0.365681141408297
+      },
+      "points": [
+        {
+          "qubits": 4,
+          "count": 12,
+          "positive_count": 12,
+          "q1": 15.0,
+          "median": 21.0,
+          "q3": 27.0
+        },
+        {
+          "qubits": 6,
+          "count": 6,
+          "positive_count": 6,
+          "q1": 62.0,
+          "median": 62.0,
+          "q3": 62.0
+        },
+        {
+          "qubits": 8,
+          "count": 24,
+          "positive_count": 24,
+          "q1": 105.0,
+          "median": 105.0,
+          "q3": 105.0
+        },
+        {
+          "qubits": 10,
+          "count": 33,
+          "positive_count": 33,
+          "q1": 156.0,
+          "median": 276.0,
+          "q3": 276.0
+        },
+        {
+          "qubits": 12,
+          "count": 27,
+          "positive_count": 27,
+          "q1": 631.0,
+          "median": 631.0,
+          "q3": 631.0
+        },
+        {
+          "qubits": 14,
+          "count": 27,
+          "positive_count": 27,
+          "q1": 670.0,
+          "median": 670.0,
+          "q3": 1086.0
+        },
+        {
+          "qubits": 16,
+          "count": 24,
+          "positive_count": 24,
+          "q1": 1177.0,
+          "median": 1177.0,
+          "q3": 2065.0
+        },
+        {
+          "qubits": 18,
+          "count": 12,
+          "positive_count": 12,
+          "q1": 1884.0,
+          "median": 2802.0,
+          "q3": 3733.0
+        },
+        {
+          "qubits": 20,
+          "count": 18,
+          "positive_count": 18,
+          "q1": 2951.0,
+          "median": 3143.0,
+          "q3": 3663.0
+        },
+        {
+          "qubits": 22,
+          "count": 12,
+          "positive_count": 12,
+          "q1": 4578.0,
+          "median": 4578.0,
+          "q3": 4800.0
+        },
+        {
+          "qubits": 24,
+          "count": 12,
+          "positive_count": 12,
+          "q1": 6509.0,
+          "median": 7195.0,
+          "q3": 9082.0
+        },
+        {
+          "qubits": 26,
+          "count": 9,
+          "positive_count": 9,
+          "q1": 8980.0,
+          "median": 9388.0,
+          "q3": 11100.0
+        },
+        {
+          "qubits": 30,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 16542.0,
+          "median": 16542.0,
+          "q3": 16542.0
+        },
+        {
+          "qubits": 36,
+          "count": 21,
+          "positive_count": 21,
+          "q1": 40783.0,
+          "median": 63499.0,
+          "q3": 63535.0
+        },
+        {
+          "qubits": 52,
+          "count": 21,
+          "positive_count": 21,
+          "q1": 142839.0,
+          "median": 145263.0,
+          "q3": 145295.0
+        },
+        {
+          "qubits": 62,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 589258.0,
+          "median": 589258.0,
+          "q3": 589258.0
+        },
+        {
+          "qubits": 68,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 436555.0,
+          "median": 436555.0,
+          "q3": 436555.0
+        },
+        {
+          "qubits": 78,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 871070.0,
+          "median": 871070.0,
+          "q3": 871070.0
+        }
+      ]
+    },
+    {
+      "family": "electronic/transition_metals",
+      "metadata_files": [
+        "chemistry_electronic_transition_metals.csv"
+      ],
+      "hamiltonians": 165,
+      "metadata_rows": 165,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 18,
+      "fit_qubit_sizes": 18,
+      "qubits_min": 26,
+      "qubits_max": 120,
+      "status": "no_superpolynomial_signal",
+      "selected": {
+        "model": "power law",
+        "superpolynomial": false,
+        "parameters": 2,
+        "equation": "T(n) = 256779 x^(3.287), x = n / 50.3009",
+        "reference_qubits": 50.300874304788955,
+        "log_coefficients": [
+          12.455971319053617,
+          3.2870035997350158
+        ],
+        "log_r2": 0.9661675206428049,
+        "log_rmse": 0.28950885964963513,
+        "cv_log_rmse": 0.31587756346023255,
+        "largest_holdout_log_error": 0.024781709344296132
+      },
+      "fits": [
+        {
+          "model": "constant",
+          "superpolynomial": false,
+          "parameters": 1,
+          "equation": "T(n) = 256779",
+          "reference_qubits": 50.300874304788955,
+          "log_coefficients": [
+            12.455971319053617
+          ],
+          "log_r2": 0.0,
+          "log_rmse": 1.5739645475102342,
+          "cv_log_rmse": 1.6665506973637771,
+          "largest_holdout_log_error": 3.045870509815847
+        },
+        {
+          "model": "power law",
+          "superpolynomial": false,
+          "parameters": 2,
+          "equation": "T(n) = 256779 x^(3.287), x = n / 50.3009",
+          "reference_qubits": 50.300874304788955,
+          "log_coefficients": [
+            12.455971319053617,
+            3.2870035997350158
+          ],
+          "log_r2": 0.9661675206428049,
+          "log_rmse": 0.28950885964963513,
+          "cv_log_rmse": 0.31587756346023255,
+          "largest_holdout_log_error": 0.024781709344296132
+        },
+        {
+          "model": "power law with finite-size correction",
+          "superpolynomial": false,
+          "parameters": 3,
+          "equation": "T(n) = 252901 x^(3.42492) exp(0.140284 (1/x - 1)), x = n / 50.3009",
+          "reference_qubits": 50.300874304788955,
+          "log_coefficients": [
+            12.440752965226704,
+            3.4249167965825102,
+            0.14028352870908467
+          ],
+          "log_r2": 0.966220421274582,
+          "log_rmse": 0.2892824323630772,
+          "cv_log_rmse": 0.3303760194531643,
+          "largest_holdout_log_error": 0.008558841951751717
+        },
+        {
+          "model": "exponential",
+          "superpolynomial": true,
+          "parameters": 2,
+          "equation": "T(n) = 183783 exp(2.78884 (x - 1)), x = n / 50.3009",
+          "reference_qubits": 50.300874304788955,
+          "log_coefficients": [
+            12.12151285923558,
+            2.788838327434082
+          ],
+          "log_r2": 0.9354338034607258,
+          "log_rmse": 0.3999424915464999,
+          "cv_log_rmse": 0.4654367369348905,
+          "largest_holdout_log_error": 1.0115932001755112
+        },
+        {
+          "model": "stretched exponential",
+          "superpolynomial": true,
+          "parameters": 2,
+          "equation": "T(n) = 215101 exp(6.19288 (sqrt(x) - 1)), x = n / 50.3009",
+          "reference_qubits": 50.300874304788955,
+          "log_coefficients": [
+            12.278860751008855,
+            6.192876036496967
+          ],
+          "log_r2": 0.9584420051950439,
+          "log_rmse": 0.32086491976062337,
+          "cv_log_rmse": 0.35480431357696973,
+          "largest_holdout_log_error": 0.45153037793297024
+        },
+        {
+          "model": "quasipolynomial",
+          "superpolynomial": true,
+          "parameters": 3,
+          "equation": "T(n) = 256319 exp(3.2858 ln(x) +0.0080939 ln(x)^2), x = n / 50.3009",
+          "reference_qubits": 50.300874304788955,
+          "log_coefficients": [
+            12.454178238313542,
+            3.285796477579695,
+            0.008093900838303192
+          ],
+          "log_r2": 0.9661682391398128,
+          "log_rmse": 0.2895057854978476,
+          "cv_log_rmse": null,
+          "largest_holdout_log_error": null
+        }
+      ],
+      "superpolynomial_comparison": {
+        "model": "stretched exponential",
+        "superpolynomial": true,
+        "parameters": 2,
+        "equation": "T(n) = 215101 exp(6.19288 (sqrt(x) - 1)), x = n / 50.3009",
+        "reference_qubits": 50.300874304788955,
+        "log_coefficients": [
+          12.278860751008855,
+          6.192876036496967
+        ],
+        "log_r2": 0.9584420051950439,
+        "log_rmse": 0.32086491976062337,
+        "cv_log_rmse": 0.35480431357696973,
+        "largest_holdout_log_error": 0.45153037793297024
+      },
+      "points": [
+        {
+          "qubits": 26,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 31372.0,
+          "median": 31372.0,
+          "q3": 31372.0
+        },
+        {
+          "qubits": 28,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 39511.0,
+          "median": 39511.0,
+          "q3": 39511.0
+        },
+        {
+          "qubits": 30,
+          "count": 9,
+          "positive_count": 9,
+          "q1": 31642.0,
+          "median": 56832.0,
+          "q3": 59510.0
+        },
+        {
+          "qubits": 32,
+          "count": 9,
+          "positive_count": 9,
+          "q1": 44873.0,
+          "median": 66895.0,
+          "q3": 70161.0
+        },
+        {
+          "qubits": 34,
+          "count": 15,
+          "positive_count": 15,
+          "q1": 57028.0,
+          "median": 57936.0,
+          "q3": 85724.0
+        },
+        {
+          "qubits": 36,
+          "count": 18,
+          "positive_count": 18,
+          "q1": 53319.0,
+          "median": 85567.0,
+          "q3": 120413.0
+        },
+        {
+          "qubits": 38,
+          "count": 21,
+          "positive_count": 21,
+          "q1": 63426.0,
+          "median": 78530.0,
+          "q3": 134422.0
+        },
+        {
+          "qubits": 40,
+          "count": 21,
+          "positive_count": 21,
+          "q1": 77189.0,
+          "median": 99765.0,
+          "q3": 111271.0
+        },
+        {
+          "qubits": 42,
+          "count": 9,
+          "positive_count": 9,
+          "q1": 77456.0,
+          "median": 91026.0,
+          "q3": 117652.0
+        },
+        {
+          "qubits": 44,
+          "count": 9,
+          "positive_count": 9,
+          "q1": 141793.0,
+          "median": 156759.0,
+          "q3": 252015.0
+        },
+        {
+          "qubits": 46,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 292738.0,
+          "median": 292738.0,
+          "q3": 292738.0
+        },
+        {
+          "qubits": 70,
+          "count": 9,
+          "positive_count": 9,
+          "q1": 1303842.0,
+          "median": 1817130.0,
+          "q3": 1836204.0
+        },
+        {
+          "qubits": 80,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 942757.0,
+          "median": 942757.0,
+          "q3": 942757.0
+        },
+        {
+          "qubits": 84,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 1132325.0,
+          "median": 1132325.0,
+          "q3": 1132325.0
+        },
+        {
+          "qubits": 86,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 1256838.0,
+          "median": 1256838.0,
+          "q3": 1256838.0
+        },
+        {
+          "qubits": 88,
+          "count": 21,
+          "positive_count": 21,
+          "q1": 1536709.0,
+          "median": 1840115.0,
+          "q3": 2290367.0
+        },
+        {
+          "qubits": 90,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 1506344.0,
+          "median": 1506344.0,
+          "q3": 1506344.0
+        },
+        {
+          "qubits": 120,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 4559059.0,
+          "median": 4559059.0,
+          "q3": 4559059.0
+        }
+      ]
+    },
+    {
+      "family": "vibrational",
+      "metadata_files": [
+        "chemistry_vibrational.csv"
+      ],
+      "hamiltonians": 1689,
+      "metadata_rows": 1689,
+      "invalid_rows": 0,
+      "duplicate_rows": 0,
+      "zero_term_rows": 0,
+      "distinct_qubit_sizes": 70,
+      "fit_qubit_sizes": 70,
+      "qubits_min": 2,
+      "qubits_max": 288,
+      "status": "no_superpolynomial_signal",
+      "selected": {
+        "model": "power law",
+        "superpolynomial": false,
+        "parameters": 2,
+        "equation": "T(n) = 334.423 x^(1.48895), x = n / 38.8878",
+        "reference_qubits": 38.88778755680065,
+        "log_coefficients": [
+          5.812405218283582,
+          1.4889548972909261
+        ],
+        "log_r2": 0.19622866118062632,
+        "log_rmse": 3.3699444756588095,
+        "cv_log_rmse": 3.469749363175088,
+        "largest_holdout_log_error": 9.01010918822905
+      },
+      "fits": [
+        {
+          "model": "constant",
+          "superpolynomial": false,
+          "parameters": 1,
+          "equation": "T(n) = 334.423",
+          "reference_qubits": 38.88778755680065,
+          "log_coefficients": [
+            5.8124052182835815
+          ],
+          "log_r2": 1.1102230246251565e-16,
+          "log_rmse": 3.7588629152825277,
+          "cv_log_rmse": 3.8133391894170563,
+          "largest_holdout_log_error": 11.616003016953552
+        },
+        {
+          "model": "power law",
+          "superpolynomial": false,
+          "parameters": 2,
+          "equation": "T(n) = 334.423 x^(1.48895), x = n / 38.8878",
+          "reference_qubits": 38.88778755680065,
+          "log_coefficients": [
+            5.812405218283582,
+            1.4889548972909261
+          ],
+          "log_r2": 0.19622866118062632,
+          "log_rmse": 3.3699444756588095,
+          "cv_log_rmse": 3.469749363175088,
+          "largest_holdout_log_error": 9.01010918822905
+        },
+        {
+          "model": "power law with finite-size correction",
+          "superpolynomial": false,
+          "parameters": 3,
+          "equation": "T(n) = 318.48 x^(1.5978) exp(0.0499211 (1/x - 1)), x = n / 38.8878",
+          "reference_qubits": 38.88778755680065,
+          "log_coefficients": [
+            5.763559903973824,
+            1.5977959116945932,
+            0.0499210885324568
+          ],
+          "log_r2": 0.19685710667124356,
+          "log_rmse": 3.368626787134895,
+          "cv_log_rmse": 3.4984890364645507,
+          "largest_holdout_log_error": 9.12371973661532
+        },
+        {
+          "model": "exponential",
+          "superpolynomial": true,
+          "parameters": 2,
+          "equation": "T(n) = 182.319 exp(0.862408 (x - 1)), x = n / 38.8878",
+          "reference_qubits": 38.88778755680065,
+          "log_coefficients": [
+            5.2057567204832065,
+            0.8624075266888812
+          ],
+          "log_r2": 0.15955774292447844,
+          "log_rmse": 3.44596155258025,
+          "cv_log_rmse": 3.5973955917823335,
+          "largest_holdout_log_error": 7.846894287247464
+        },
+        {
+          "model": "stretched exponential",
+          "superpolynomial": true,
+          "parameters": 2,
+          "equation": "T(n) = 220.714 exp(2.66486 (sqrt(x) - 1)), x = n / 38.8878",
+          "reference_qubits": 38.88778755680065,
+          "log_coefficients": [
+            5.396866286662305,
+            2.6648618899447536
+          ],
+          "log_r2": 0.18458866724177259,
+          "log_rmse": 3.3942580677117062,
+          "cv_log_rmse": 3.5227492830196017,
+          "largest_holdout_log_error": 8.174357993565849
+        },
+        {
+          "model": "quasipolynomial",
+          "superpolynomial": true,
+          "parameters": 3,
+          "equation": "T(n) = 311.188 exp(1.51286 ln(x) +0.0575796 ln(x)^2), x = n / 38.8878",
+          "reference_qubits": 38.88778755680065,
+          "log_coefficients": [
+            5.7403971418584705,
+            1.5128617587441793,
+            0.057579631225848305
+          ],
+          "log_r2": 0.19682908002487498,
+          "log_rmse": 3.368685562782952,
+          "cv_log_rmse": null,
+          "largest_holdout_log_error": null
+        }
+      ],
+      "superpolynomial_comparison": {
+        "model": "stretched exponential",
+        "superpolynomial": true,
+        "parameters": 2,
+        "equation": "T(n) = 220.714 exp(2.66486 (sqrt(x) - 1)), x = n / 38.8878",
+        "reference_qubits": 38.88778755680065,
+        "log_coefficients": [
+          5.396866286662305,
+          2.6648618899447536
+        ],
+        "log_r2": 0.18458866724177259,
+        "log_rmse": 3.3942580677117062,
+        "cv_log_rmse": 3.5227492830196017,
+        "largest_holdout_log_error": 8.174357993565849
+      },
+      "points": [
+        {
+          "qubits": 2,
+          "count": 38,
+          "positive_count": 38,
+          "q1": 4.0,
+          "median": 4.0,
+          "q3": 10.0
+        },
+        {
+          "qubits": 3,
+          "count": 52,
+          "positive_count": 52,
+          "q1": 12.0,
+          "median": 12.0,
+          "q3": 12.0
+        },
+        {
+          "qubits": 4,
+          "count": 99,
+          "positive_count": 99,
+          "q1": 6.0,
+          "median": 32.0,
+          "q3": 32.0
+        },
+        {
+          "qubits": 5,
+          "count": 36,
+          "positive_count": 36,
+          "q1": 16.0,
+          "median": 80.0,
+          "q3": 256.0
+        },
+        {
+          "qubits": 6,
+          "count": 97,
+          "positive_count": 97,
+          "q1": 12.0,
+          "median": 12.0,
+          "q3": 24.0
+        },
+        {
+          "qubits": 7,
+          "count": 38,
+          "positive_count": 38,
+          "q1": 6.0,
+          "median": 44.0,
+          "q3": 565.0
+        },
+        {
+          "qubits": 8,
+          "count": 112,
+          "positive_count": 112,
+          "q1": 14.0,
+          "median": 30.0,
+          "q3": 37.25
+        },
+        {
+          "qubits": 9,
+          "count": 65,
+          "positive_count": 65,
+          "q1": 12.0,
+          "median": 36.0,
+          "q3": 2802.0
+        },
+        {
+          "qubits": 10,
+          "count": 52,
+          "positive_count": 52,
+          "q1": 8.0,
+          "median": 12.0,
+          "q3": 1232.0
+        },
+        {
+          "qubits": 11,
+          "count": 26,
+          "positive_count": 26,
+          "q1": 24.0,
+          "median": 76.0,
+          "q3": 76.0
+        },
+        {
+          "qubits": 12,
+          "count": 165,
+          "positive_count": 165,
+          "q1": 18.0,
+          "median": 32.0,
+          "q3": 1789.0
+        },
+        {
+          "qubits": 13,
+          "count": 18,
+          "positive_count": 18,
+          "q1": 8.0,
+          "median": 16.0,
+          "q3": 2080.0
+        },
+        {
+          "qubits": 14,
+          "count": 30,
+          "positive_count": 30,
+          "q1": 24.0,
+          "median": 36.0,
+          "q3": 10435.0
+        },
+        {
+          "qubits": 15,
+          "count": 24,
+          "positive_count": 24,
+          "q1": 24.0,
+          "median": 24.0,
+          "q3": 39.0
+        },
+        {
+          "qubits": 16,
+          "count": 98,
+          "positive_count": 98,
+          "q1": 14.0,
+          "median": 30.0,
+          "q3": 110.75
+        },
+        {
+          "qubits": 17,
+          "count": 2,
+          "positive_count": 2,
+          "q1": 24.0,
+          "median": 24.0,
+          "q3": 24.0
+        },
+        {
+          "qubits": 18,
+          "count": 52,
+          "positive_count": 52,
+          "q1": 24.0,
+          "median": 52.0,
+          "q3": 33376.0
+        },
+        {
+          "qubits": 19,
+          "count": 18,
+          "positive_count": 18,
+          "q1": 24.0,
+          "median": 44.0,
+          "q3": 39443.0
+        },
+        {
+          "qubits": 20,
+          "count": 44,
+          "positive_count": 44,
+          "q1": 34.0,
+          "median": 64.0,
+          "q3": 100.0
+        },
+        {
+          "qubits": 21,
+          "count": 12,
+          "positive_count": 12,
+          "q1": 44.0,
+          "median": 17724.0,
+          "q3": 126488.0
+        },
+        {
+          "qubits": 22,
+          "count": 12,
+          "positive_count": 12,
+          "q1": 12.0,
+          "median": 44.0,
+          "q3": 208250.0
+        },
+        {
+          "qubits": 24,
+          "count": 120,
+          "positive_count": 120,
+          "q1": 15.5,
+          "median": 64.0,
+          "q3": 6849.0
+        },
+        {
+          "qubits": 25,
+          "count": 4,
+          "positive_count": 4,
+          "q1": 54794.0,
+          "median": 59658.0,
+          "q3": 64522.0
+        },
+        {
+          "qubits": 26,
+          "count": 6,
+          "positive_count": 6,
+          "q1": 12.0,
+          "median": 12.0,
+          "q3": 18.0
+        },
+        {
+          "qubits": 28,
+          "count": 18,
+          "positive_count": 18,
+          "q1": 16.0,
+          "median": 1972.5,
+          "q3": 18814.0
+        },
+        {
+          "qubits": 30,
+          "count": 14,
+          "positive_count": 14,
+          "q1": 21.0,
+          "median": 28.0,
+          "q3": 30319.0
+        },
+        {
+          "qubits": 32,
+          "count": 61,
+          "positive_count": 61,
+          "q1": 30.0,
+          "median": 46.0,
+          "q3": 269.0
+        },
+        {
+          "qubits": 34,
+          "count": 4,
+          "positive_count": 4,
+          "q1": 48.0,
+          "median": 48.0,
+          "q3": 48.0
+        },
+        {
+          "qubits": 35,
+          "count": 8,
+          "positive_count": 8,
+          "q1": 37.0,
+          "median": 48.0,
+          "q3": 56.0
+        },
+        {
+          "qubits": 36,
+          "count": 14,
+          "positive_count": 14,
+          "q1": 24.0,
+          "median": 36.0,
+          "q3": 16221.75
+        },
+        {
+          "qubits": 37,
+          "count": 8,
+          "positive_count": 8,
+          "q1": 36.0,
+          "median": 46.0,
+          "q3": 39200.0
+        },
+        {
+          "qubits": 38,
+          "count": 2,
+          "positive_count": 2,
+          "q1": 36.0,
+          "median": 36.0,
+          "q3": 36.0
+        },
+        {
+          "qubits": 39,
+          "count": 8,
+          "positive_count": 8,
+          "q1": 39.0,
+          "median": 50.0,
+          "q3": 62548.25
+        },
+        {
+          "qubits": 40,
+          "count": 24,
+          "positive_count": 24,
+          "q1": 28.0,
+          "median": 49.0,
+          "q3": 74.0
+        },
+        {
+          "qubits": 41,
+          "count": 4,
+          "positive_count": 4,
+          "q1": 28.0,
+          "median": 181071.0,
+          "q3": 362114.0
+        },
+        {
+          "qubits": 42,
+          "count": 4,
+          "positive_count": 4,
+          "q1": 48.0,
+          "median": 54.0,
+          "q3": 60.0
+        },
+        {
+          "qubits": 44,
+          "count": 4,
+          "positive_count": 4,
+          "q1": 80.0,
+          "median": 5738.5,
+          "q3": 11803.0
+        },
+        {
+          "qubits": 45,
+          "count": 12,
+          "positive_count": 12,
+          "q1": 60.0,
+          "median": 331920.0,
+          "q3": 724672.0
+        },
+        {
+          "qubits": 47,
+          "count": 6,
+          "positive_count": 6,
+          "q1": 87.0,
+          "median": 108.0,
+          "q3": 1156176.75
+        },
+        {
+          "qubits": 48,
+          "count": 73,
+          "positive_count": 73,
+          "q1": 30.0,
+          "median": 76.0,
+          "q3": 53465.0
+        },
+        {
+          "qubits": 50,
+          "count": 2,
+          "positive_count": 2,
+          "q1": 140.0,
+          "median": 140.0,
+          "q3": 140.0
+        },
+        {
+          "qubits": 51,
+          "count": 6,
+          "positive_count": 6,
+          "q1": 117.0,
+          "median": 144.0,
+          "q3": 144.0
+        },
+        {
+          "qubits": 52,
+          "count": 10,
+          "positive_count": 10,
+          "q1": 96.0,
+          "median": 160.0,
+          "q3": 164.0
+        },
+        {
+          "qubits": 54,
+          "count": 8,
+          "positive_count": 8,
+          "q1": 102.0,
+          "median": 1403203.0,
+          "q3": 3301460.0
+        },
+        {
+          "qubits": 55,
+          "count": 4,
+          "positive_count": 4,
+          "q1": 72.0,
+          "median": 1827828.5,
+          "q3": 3655585.0
+        },
+        {
+          "qubits": 56,
+          "count": 21,
+          "positive_count": 21,
+          "q1": 28.0,
+          "median": 128.0,
+          "q3": 46137.0
+        },
+        {
+          "qubits": 60,
+          "count": 18,
+          "positive_count": 18,
+          "q1": 112.0,
+          "median": 58508.5,
+          "q3": 11864681.0
+        },
+        {
+          "qubits": 64,
+          "count": 16,
+          "positive_count": 16,
+          "q1": 44.0,
+          "median": 60.0,
+          "q3": 101581.0
+        },
+        {
+          "qubits": 68,
+          "count": 8,
+          "positive_count": 8,
+          "q1": 72.0,
+          "median": 384.0,
+          "q3": 384.0
+        },
+        {
+          "qubits": 72,
+          "count": 14,
+          "positive_count": 14,
+          "q1": 51.5,
+          "median": 136.0,
+          "q3": 219257.0
+        },
+        {
+          "qubits": 76,
+          "count": 2,
+          "positive_count": 2,
+          "q1": 151561.25,
+          "median": 303086.5,
+          "q3": 454611.75
+        },
+        {
+          "qubits": 80,
+          "count": 14,
+          "positive_count": 14,
+          "q1": 48.0,
+          "median": 60.0,
+          "q3": 90.0
+        },
+        {
+          "qubits": 88,
+          "count": 3,
+          "positive_count": 3,
+          "q1": 46977.5,
+          "median": 93921.0,
+          "q3": 103101.0
+        },
+        {
+          "qubits": 92,
+          "count": 2,
+          "positive_count": 2,
+          "q1": 48.0,
+          "median": 48.0,
+          "q3": 48.0
+        },
+        {
+          "qubits": 96,
+          "count": 27,
+          "positive_count": 27,
+          "q1": 60.0,
+          "median": 62.0,
+          "q3": 714817.0
+        },
+        {
+          "qubits": 104,
+          "count": 4,
+          "positive_count": 4,
+          "q1": 40.0,
+          "median": 56.0,
+          "q3": 221611.75
+        },
+        {
+          "qubits": 112,
+          "count": 5,
+          "positive_count": 5,
+          "q1": 56.0,
+          "median": 70.0,
+          "q3": 311545.0
+        },
+        {
+          "qubits": 120,
+          "count": 6,
+          "positive_count": 6,
+          "q1": 73.5,
+          "median": 742340.5,
+          "q3": 1599170.0
+        },
+        {
+          "qubits": 128,
+          "count": 1,
+          "positive_count": 1,
+          "q1": 86.0,
+          "median": 86.0,
+          "q3": 86.0
+        },
+        {
+          "qubits": 136,
+          "count": 4,
+          "positive_count": 4,
+          "q1": 147.5,
+          "median": 168.0,
+          "q3": 739967.25
+        },
+        {
+          "qubits": 144,
+          "count": 4,
+          "positive_count": 4,
+          "q1": 159.0,
+          "median": 184.0,
+          "q3": 1582075.25
+        },
+        {
+          "qubits": 152,
+          "count": 2,
+          "positive_count": 2,
+          "q1": 1921214.25,
+          "median": 3842344.5,
+          "q3": 5763474.75
+        },
+        {
+          "qubits": 176,
+          "count": 1,
+          "positive_count": 1,
+          "q1": 74.0,
+          "median": 74.0,
+          "q3": 74.0
+        },
+        {
+          "qubits": 184,
+          "count": 2,
+          "positive_count": 2,
+          "q1": 104.0,
+          "median": 104.0,
+          "q3": 104.0
+        },
+        {
+          "qubits": 192,
+          "count": 5,
+          "positive_count": 5,
+          "q1": 116.0,
+          "median": 120.0,
+          "q3": 134.0
+        },
+        {
+          "qubits": 208,
+          "count": 4,
+          "positive_count": 4,
+          "q1": 86.0,
+          "median": 120.0,
+          "q3": 2257655.75
+        },
+        {
+          "qubits": 224,
+          "count": 2,
+          "positive_count": 2,
+          "q1": 127.5,
+          "median": 135.0,
+          "q3": 142.5
+        },
+        {
+          "qubits": 240,
+          "count": 6,
+          "positive_count": 6,
+          "q1": 157.5,
+          "median": 7269440.5,
+          "q3": 15675938.0
+        },
+        {
+          "qubits": 272,
+          "count": 2,
+          "positive_count": 2,
+          "q1": 360.0,
+          "median": 360.0,
+          "q3": 360.0
+        },
+        {
+          "qubits": 288,
+          "count": 2,
+          "positive_count": 2,
+          "q1": 15702396.25,
+          "median": 31404612.5,
+          "q3": 47106828.75
+        }
+      ]
+    }
+  ]
+}
